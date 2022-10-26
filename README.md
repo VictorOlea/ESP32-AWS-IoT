@@ -1,6 +1,6 @@
 # ESP32-AWS-IoT
 
-Código que conecta una ESP32 con AWS IoT vía protocolo MQTT
+Código que conecta una ESP32 con AWS IoT vía protocolo MQTT, para la lectura de un sensor de temperatura y humedad
 
 Datos recibidos por AWS IoT
 
